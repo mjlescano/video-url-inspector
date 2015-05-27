@@ -1,6 +1,6 @@
 {
-  "name": "@democracyos/video-url-inspector",
-  "version": "1.0.1",
+  "name": "democracyos-video-url-inspector",
+  "version": "1.0.2",
   "description": "Everything you can know about a video URL - like provider, id, embed code or iframe source",
   "main": "index.js",
   "directories": {
@@ -19,7 +19,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/bdadam/video-url-inspector.git"
+    "url": "https://github.com/mjlescano/video-url-inspector.git"
   },
   "keywords": [
     "video",
@@ -34,7 +34,7 @@
   "author": "Adam Beres-Deak <me@bdadam.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/bdadam/video-url-inspector/issues"
+    "url": "https://github.com/mjlescano/video-url-inspector/issues"
   },
-  "homepage": "https://github.com/bdadam/video-url-inspector"
+  "homepage": "https://github.com/mjlescano/video-url-inspector"
 }
